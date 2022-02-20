@@ -8,6 +8,7 @@
 
 <p align="center">
     JetBrains Academy's Code Sharing Platform Project
+  
   <img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo--v1.png" alt="Java"><img src="https://img.icons8.com/color/30/000000/spring-logo.png" alt="Spring Framework">
 </p>
 
