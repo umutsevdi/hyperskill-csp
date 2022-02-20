@@ -28,10 +28,10 @@ What you’ll do and what you’ll learn
 <details open="open">
   <summary>Task Details</summary>
   <ol>
-  <li><a href="1-show-the-code/task.md">Show the code</a></li>
-  <li><a href="2-post-updates/task.md">Post Updates</a></li>
-  <li><a href="3-snippets-feed/task.md">Snippets Feed</a></li>
-  <li><a href="4-work-with-the-database/task.md">Work With thee Database</a></li>
-  <li><a href="5-super-secret-snippets/task.md">Super Secret Snippets</a></li>
+  <li><a href="1-show-the-code/README.md">Show the code</a></li>
+  <li><a href="2-post-updates/README.md">Post Updates</a></li>
+  <li><a href="3-snippets-feed/README.md">Snippets Feed</a></li>
+  <li><a href="4-work-with-the-database/README.md">Work With thee Database</a></li>
+  <li><a href="5-super-secret-snippets/README.md">Super Secret Snippets</a></li>
   </ol>
 </details>
