@@ -1,4 +1,4 @@
-# JetBrains Academy Hyperskill - Code Sharing Platform Project
+# JetBrains Academy - Code Sharing Platform Project
 
 <br />
 <p align="center">
@@ -7,7 +7,7 @@
   </a>
 
 <p align="center">
-    JetBrains Academy's Code Sharing Platform Project
+    JetBrains Academy's Code Sharing Platform Project. Code Sharing Platform is a graduate project for track Java Backend Developer.
 </p>
 <p align="center">
   <img src="https://img.icons8.com/color/30/000000/java-coffee-cup-logo--v1.png" alt="Java"><img src="https://img.icons8.com/color/30/000000/spring-logo.png" alt="Spring Framework">
