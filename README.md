@@ -26,7 +26,7 @@ Java Backend Developer
 What you’ll do and what you’ll learn
 
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary>Task Details</summary>
   <ol>
   <li><a href="1-show-the-code/task.md">Show the code</a></li>
   <li><a href="2-post-updates/task.md">Post Updates</a></li>
